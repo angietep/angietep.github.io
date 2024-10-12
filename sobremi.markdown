@@ -14,4 +14,5 @@ Mi nombre es Ángeles Tepper.
 - **2024**, estoy trabajando como investigadora postdoctoral en EEUU. 
 
 En redes sociales, difundo contenido sobre neurociencias y comparto mi día a día como científica ([@lacerebra](instagram.com/lacerebra))
-<img src="AngelesTepper.jpg" width="200" height="100">
+
+<img src="AngelesTepper.jpg" width="100" height="200">

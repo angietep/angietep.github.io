@@ -4,7 +4,7 @@ title: Sobre mí
 permalink: /about/
 ---
 
-![yo](AngelesTepper.jpg)
+![Angeles](AngelesTepper.jpg)
 
 Mi nombre es Ángeles Tepper. 
 - **1992**, nací en Santa Fe, Argentina. 

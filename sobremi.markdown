@@ -4,15 +4,10 @@ title: Sobre mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mi nombre es Ángeles Tepper. 
+- **1992**, nací en Santa Fe, Argentina. 
+- **2017**, me gradué de la carrera de Bioingeniería en la UNER.
+- **2022**, obtuve mi título de Doctora en Neurociencias en la PUC (Chile).
+- **2024**, estoy trabajando como investigadora postdoctoral en EEUU. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+En redes sociales, difundo contenido sobre neurociencias y comparto mi día a día como científica (@lacerebra en instagram)

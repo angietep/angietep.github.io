@@ -19,7 +19,7 @@ En esta investigación, se analizaron casi 8000 imágenes de resonancia magnéti
 
 ¿Qué es el grosor cortical? Como se puede ver en la siguiente imagen, el grosor cortical hace referencia a la distancia entre la superficie de la sustancia blanca y la superficie pial, en la corteza (que es la capa más externa del cerebro). Lo que se hizo en este estudio es buscar diferencias en el grosor cortical entre hombres y mujeres en cada país.
 
-![grosorcortical](corticalthickness.jpg)
+![grosorcortical](corticalthickness.png)
 
 Después, se analizó si es que estas diferencias se asociaban a índices de desigualdad de género que tienen en cuenta factores como educación, ingresos económicos, salud y participación política.
 

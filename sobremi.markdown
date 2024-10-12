@@ -4,6 +4,8 @@ title: Sobre mí
 permalink: /about/
 ---
 
+![Angeles](AngelesTepper.jpg)
+
 Mi nombre es Ángeles Tepper. 
 - **1992**, nací en Santa Fe, Argentina. 
 - **2017**, me gradué de la carrera de Bioingeniería en la UNER.
